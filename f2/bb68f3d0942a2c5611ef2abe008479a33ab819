@@ -1,0 +1,27 @@
+.gitignore
+  s_f19e80fb652f44::t_840c8ab155b902 1-6
+README.md
+  s_f19e80fb652f44::t_85470d3674a2ca 7-8
+  h_344b4e96f49ad1 9-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "f2bb68f3d0942a2c5611ef2abe008479a33ab819",
+  "prompts": {},
+  "humans": {
+    "h_344b4e96f49ad1": {
+      "author": "zhaoming-mike <37763390@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_f19e80fb652f44": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e593b0-5afe-4692-a6b3-c7babdb82f93",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "zhaoming-mike <37763390@qq.com>"
+    }
+  }
+}
